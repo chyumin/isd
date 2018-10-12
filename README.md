@@ -3,6 +3,6 @@
 # Digital Signal Processing for Neuroscience
 
 
-This repository contains exercises done, mainly in Python (Jupyter notebook), that were done in the DSP class
+This repository contains projects done for DSP classes
 
 Author: Chuang Yu Min
