@@ -1,16 +1,6 @@
 # Santos Dummond Institute | Edmond and Lily Safra International Institute of Neuroscience
 ## Neuroengineering Master's Degree
-## Class: Digital Signal Processing for Neuroscience (2018)
 
-This repository contains projects done for DSP class
-
-### Environment
-- Python 3.6
-- Jupyter notebook
-- Requirements are listed in `requirements.txt`
-
-Sorry for mixing portuguese and english. The exercises were given in portuguese and I just ctrl+c to the notebooks
-
-Thanks!
+This repository contains projects done at the institute
 
 Chuang Yu Min
