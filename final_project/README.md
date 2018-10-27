@@ -1,2 +1,2 @@
-Dataset file was ignored because the file is too large (approx 350M) to upload
+Dataset file was added to gitignore because the file is too large (approx 350M) to upload
 - dataset/DATA_FP_Paty_20150203_baseline.mat
